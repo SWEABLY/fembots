@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "hey there",
+      "answer": "hello there!"
+    },
+    {
+      "question": "whats up",
+      "answer": "Just vibin breh"
+    },
+    {
+      "question": "exit",
+      "answer": "ski"
+    },
+    {
+      "question": "skip",
+      "answer": "quit"
+    }
+  ]
+}
